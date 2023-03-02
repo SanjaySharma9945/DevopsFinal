@@ -12,7 +12,7 @@ https://youtu.be/vhnFcb4cf7I
 <img src='/images/NikeSite.png'/>
 
 
-### :link:link : https://nike-shoe-store.netlify.app/
+### :link:link : https://quiet-torte-9d13cd.netlify.app/
 
 
 ## Features
@@ -26,7 +26,7 @@ https://youtu.be/vhnFcb4cf7I
 
 ## Run Locally 
 
-- Run this command `git clone https://github.com/developer-junaid/Nike-Shoe-Store.git`
+- Run this command `git clone https://github.com/SanjaySharma9945/DevopsFinal.git`
 - You are now in the dev environment and you can play around 
 
 ## Tech Stack
